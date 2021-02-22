@@ -1,2 +1,4 @@
 E:\IUT COURS\Initiation algo\OBJET TP\TP PTUTS\Gestion_PTUTs\Debug\Gestion_PTUTs.exe
 E:\IUT COURS\Initiation algo\OBJET TP\TP PTUTS\Gestion_PTUTs\Debug\Gestion_PTUTs.pdb
+E:\IUT COURS\Initiation algo\OBJET TP\TP PTUTS\Gestion_PTUTs\PTUTS2021\Debug\Gestion_PTUTs.exe
+E:\IUT COURS\Initiation algo\OBJET TP\TP PTUTS\Gestion_PTUTs\PTUTS2021\Debug\Gestion_PTUTs.pdb

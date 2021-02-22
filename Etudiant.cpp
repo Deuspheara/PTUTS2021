@@ -1,5 +1,7 @@
 #include <iostream>
+#include "PTUT.h"
 #include "Etudiant.h"
+
 
 using namespace std;
 
@@ -15,7 +17,7 @@ void Etudiant::affiche() {
 	cout << "numero etudiant :" << numEtu << endl;
 	cout << "numero groupe :" << numGroupe << endl;	
 	Personne::affiche();
-	cout << "-----------------------------------------\n";
+
 }
 
 

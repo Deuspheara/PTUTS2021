@@ -151,6 +151,9 @@
     <ClInclude Include="Personne.h" />
     <ClInclude Include="PTUT.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ProjetsTutores.csv" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
